@@ -6,6 +6,12 @@ MSCS-634-M50 · Advanced Big Data and Data Mining
 
 Group project · Federico Poi and Umama Azhar
 
+## Recorded presentation
+
+**[Link to the presentation](https://cumber-my.sharepoint.com/:v:/g/personal/fpoi51581_ucumberlands_edu/IQAZH-Kj0DQtQYTSLQJAK038AZjtIpy2cPuRVYaXoKcDxs0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AEf2FK)**
+
+[Download the recorded presentation from GitHub Releases](https://github.com/federicopoi/MSCS_634_Project/releases/tag/final)
+
 ## Dataset and goals
 
 We used the [IBM Telco Customer Churn sample](https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv). It contains 7,043 customers and 21 original columns covering account details, services, charges, and whether the customer left. About 26.5% of customers churned. The dataset let us estimate monthly bills, predict churn, group customers, and look for common account patterns using the same records.
@@ -23,9 +29,3 @@ We used the [IBM Telco Customer Churn sample](https://github.com/IBM/telco-custo
 Start with the nine service fields for billing estimates and recheck performance if pricing changes. For retention, test a service check-in with a randomly selected group of month-to-month fiber customers and compare their churn with customers receiving usual support. The tree detects more churn at the tested cutoff and also creates more false alarms, so the cutoff should reflect the team's outreach capacity.
 
 We used a public sample, excluded customer IDs from the predictive inputs, and presented aggregate results. The data comes from one snapshot, and the observed patterns do not establish cause and effect. Before real-world use, check performance on newer customer data and compare missed churn and false alerts across demographic groups.
-
-## Recorded presentation
-
-[Watch the Telco Customer Churn presentation on SharePoint](https://cumber-my.sharepoint.com/:v:/g/personal/fpoi51581_ucumberlands_edu/IQAZH-Kj0DQtQYTSLQJAK038AZjtIpy2cPuRVYaXoKcDxs0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AEf2FK)
-
-[Download the recorded presentation from GitHub Releases](https://github.com/federicopoi/MSCS_634_Project/releases/tag/final)
