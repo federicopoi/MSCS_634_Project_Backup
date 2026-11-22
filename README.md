@@ -27,3 +27,5 @@ We used a public sample, excluded customer IDs from the predictive inputs, and p
 ## Recorded presentation
 
 [Watch the Telco Customer Churn presentation on SharePoint](https://cumber-my.sharepoint.com/:v:/g/personal/fpoi51581_ucumberlands_edu/IQAZH-Kj0DQtQYTSLQJAK038AZjtIpy2cPuRVYaXoKcDxs0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AEf2FK)
+
+[Download the recorded presentation from GitHub Releases](https://github.com/federicopoi/MSCS_634_Project/releases/tag/final)
